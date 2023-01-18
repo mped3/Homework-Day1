@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(red,yellow);
+}
+.title{
+    border: solid orange;
+    text-align: center;
+    font-family: fantasy;
+}
+.description{
+    font-size: large;
+    font-display: bold;
+    padding: 12px;
+    margin: 22px;
+}
+.BPic{
+    height: 350px;
+    margin-left: 25%;
+    border-radius: 50px;
+}
+.ingredients{
+    text-align: center;
+    font-size: 35px;
+}
+span{
+    color: rgb(255, 204, 0);
+    font-size: 40px;
+}
+.ing{
+    color: red;
+    font-size: large;
+}
+.ex{
+    color: red;
+    font-size: large;
+    font-family: fantasy;
+}
+p{
+    color: yellow;
+}
